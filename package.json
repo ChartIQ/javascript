@@ -34,7 +34,7 @@
     "jsx"
   ],
   "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
-  "license": "MIT",
+  "license": "apache-2.0",
   "bugs": {
     "url": "https://github.com/ChartIQ/javascript/issues"
   },
